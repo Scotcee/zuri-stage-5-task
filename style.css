@@ -1,0 +1,53 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.605);
+    color: white;
+}
+.header_container{
+    text-align: center;
+    justify-items: center;
+    display: flex;
+    margin-bottom: 10%;
+    margin-top: 10px;
+}
+.navigation{
+    display: flex;
+   
+    
+}
+.navigation li{
+    margin-left: 10px;
+}
+.bio{
+    text-align: center;
+    justify-items: center;
+    display: flex;
+    margin-top: 10px;
+}
+.bio h3{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.bio p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+ul{
+    list-style: none;
+}
+body .about_body{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 20%;
+    padding-left: 10%;
+
+}
